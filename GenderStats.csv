@@ -1,0 +1,16 @@
+Age,,EstimatedSalary,,Gender,,Purchased,
+,,,,,,,
+Mean,37.655,Mean,69742.5,Mean,1.51,Mean,0.3575
+Standard Error,0.52414383,Standard Error,1704.848014,Standard Error,0.025026302,Standard Error,0.023993198
+Median,37,Median,70000,Median,2,Median,0
+Mode,35,Mode,72000,Mode,2,Mode,0
+Standard Deviation,10.4828766,Standard Deviation,34096.96028,Standard Deviation,0.500526039,Standard Deviation,0.479863964
+Sample Variance,109.8907018,Sample Variance,1162602701,Sample Variance,0.250526316,Sample Variance,0.230269424
+Kurtosis,-0.622513016,Kurtosis,-0.405877563,Kurtosis,-2.008454737,Kurtosis,-1.651992131
+Skewness,0.231337463,Skewness,0.495023629,Skewness,-0.040158755,Skewness,0.596902836
+Range,42,Range,135000,Range,1,Range,1
+Minimum,18,Minimum,15000,Minimum,1,Minimum,0
+Maximum,60,Maximum,150000,Maximum,2,Maximum,1
+Sum,15062,Sum,27897000,Sum,604,Sum,143
+Count,400,Count,400,Count,400,Count,400
+Confidence Level(95.0%),1.030428662,Confidence Level(95.0%),3351.607246,Confidence Level(95.0%),0.04919989,Confidence Level(95.0%),0.047168883
